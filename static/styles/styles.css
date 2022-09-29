@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;800&display=swap');
+
+h1 {
+    font-family: 'Montserrat';
+    font-weight: 100;
+    margin: 30px 0;
+}
+
+#img_tenis {
+    height: 90px;
+    margin: 0;
+}
+
+#rows {
+    line-height: 80px;
+}
+
+.filho1 {
+    background-color: rgb(240, 240, 240);
+    width: 30%;
+    height:auto;
+    float: left;
+    margin-left: 5%;
+    margin-top: 30px;
+    border-radius: 5%;
+}
+
+.filho2 {
+    width: 60%;
+    height:auto;
+    float: left;
+    margin-right: 5%;
+    padding: 0 30px;
+}
+
+.botao_add {
+    margin-left: 38%;
+  }
